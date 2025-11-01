@@ -21,7 +21,7 @@ targets:
     mode: development
     default: true
     workspace:
-      host: your-workspace-url # replace with your Workspace URL
+      host: https://adb-3338552377574513.13.azuredatabricks.net
 
   # test:
   #   mode: production
